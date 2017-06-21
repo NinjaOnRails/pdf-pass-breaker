@@ -1,0 +1,1 @@
+Goes through every word in a given txt dictionary and tries to break the password of the locked pdf file. Enter path to the pdf file as a command line argument.
